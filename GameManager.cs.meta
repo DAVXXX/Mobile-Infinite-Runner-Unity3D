@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 252f29b669f1bee4ab3e6dfbd6ee92a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obstaclePrefab: {fileID: 8974786758929539858, guid: 3eb9252fd77bfd540b73151c8ce48876, type: 3}
+  - PowerUP: {fileID: 7944783580409195907, guid: f2a0a6e493631574cb4eace3a969d895, type: 3}
+  - cam1: {instanceID: 0}
+  - cam2: {instanceID: 0}
+  - cam3: {instanceID: 0}
+  - Titlescreen: {instanceID: 0}
+  - highScore: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - Gameover: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  - Camera1: {instanceID: 0}
+  - Camera2: {instanceID: 0}
+  - Camera3: {instanceID: 0}
+  - explode: {instanceID: 0}
+  - powerup: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
